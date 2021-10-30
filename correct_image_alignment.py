@@ -156,5 +156,4 @@ def correct_orientation(img_dir=None):
     print("Final image saved in {}".format(filename))
     return None
 
-for image in image_files:
-    correct_orientation(image)
+correct_orientation(image_files[0])
