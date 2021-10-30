@@ -15,7 +15,7 @@ source  DIR_NAME/bin/activate
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 3. Run `python correct_image_alignment.py`
 
